@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Hadasim_Project\Twitter_Towers\Twitter_Towers\Twitter_Towers\bin\Debug\net6.0\Twitter_Towers.exe
+C:\Users\user\Desktop\Hadasim_Project\Twitter_Towers\Twitter_Towers\Twitter_Towers\bin\Debug\net6.0\Twitter_Towers.deps.json
+C:\Users\user\Desktop\Hadasim_Project\Twitter_Towers\Twitter_Towers\Twitter_Towers\bin\Debug\net6.0\Twitter_Towers.runtimeconfig.json
+C:\Users\user\Desktop\Hadasim_Project\Twitter_Towers\Twitter_Towers\Twitter_Towers\bin\Debug\net6.0\Twitter_Towers.dll
+C:\Users\user\Desktop\Hadasim_Project\Twitter_Towers\Twitter_Towers\Twitter_Towers\bin\Debug\net6.0\Twitter_Towers.pdb
+C:\Users\user\Desktop\Hadasim_Project\Twitter_Towers\Twitter_Towers\Twitter_Towers\obj\Debug\net6.0\Twitter_Towers.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Hadasim_Project\Twitter_Towers\Twitter_Towers\Twitter_Towers\obj\Debug\net6.0\Twitter_Towers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Hadasim_Project\Twitter_Towers\Twitter_Towers\Twitter_Towers\obj\Debug\net6.0\Twitter_Towers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Hadasim_Project\Twitter_Towers\Twitter_Towers\Twitter_Towers\obj\Debug\net6.0\Twitter_Towers.AssemblyInfo.cs
+C:\Users\user\Desktop\Hadasim_Project\Twitter_Towers\Twitter_Towers\Twitter_Towers\obj\Debug\net6.0\Twitter_Towers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Hadasim_Project\Twitter_Towers\Twitter_Towers\Twitter_Towers\obj\Debug\net6.0\Twitter_Towers.dll
+C:\Users\user\Desktop\Hadasim_Project\Twitter_Towers\Twitter_Towers\Twitter_Towers\obj\Debug\net6.0\refint\Twitter_Towers.dll
+C:\Users\user\Desktop\Hadasim_Project\Twitter_Towers\Twitter_Towers\Twitter_Towers\obj\Debug\net6.0\Twitter_Towers.pdb
+C:\Users\user\Desktop\Hadasim_Project\Twitter_Towers\Twitter_Towers\Twitter_Towers\obj\Debug\net6.0\Twitter_Towers.genruntimeconfig.cache
+C:\Users\user\Desktop\Hadasim_Project\Twitter_Towers\Twitter_Towers\Twitter_Towers\obj\Debug\net6.0\ref\Twitter_Towers.dll
